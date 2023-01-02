@@ -1,1 +1,274 @@
-[]
+
+[
+
+    {
+
+        "key": "dbln",
+
+        "value": "%7B%22100084505707193%22%3A%22XaZaS0kA%22%2C%22100083965003315%22%3A%22uZ2rgcPT%22%2C%22100089007257442%22%3A%22319IAVD4%22%7D",
+
+        "domain": "facebook.com",
+
+        "path": "/login/device-based/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.478Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.485Z"
+
+    },
+
+    {
+
+        "key": "sb",
+
+        "value": "pBdfY62SxOn02ka1SUJKNUd6",
+
+        "domain": "facebook.com",
+
+        "path": "/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.485Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.485Z"
+
+    },
+
+    {
+
+        "key": "datr",
+
+        "value": "khKQY9mHUo1l0XmDcDjnlxpV",
+
+        "domain": "facebook.com",
+
+        "path": "/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.485Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.485Z"
+
+    },
+
+    {
+
+        "key": "m_pixel_ratio",
+
+        "value": "3",
+
+        "domain": "facebook.com",
+
+        "path": "/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.485Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.485Z"
+
+    },
+
+    {
+
+        "key": "locale",
+
+        "value": "vi_VN",
+
+        "domain": "facebook.com",
+
+        "path": "/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.485Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "key": "fr",
+
+        "value": "06YYvdMxveFW7EvAd.AWXZkmxAR8051UewpUqHlJm_fD0.BjXxek.Ow.AAA.0.0.BjstAw.AWXyy9YNFWo",
+
+        "domain": "facebook.com",
+
+        "path": "/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.486Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "key": "c_user",
+
+        "value": "100089007257442",
+
+        "domain": "facebook.com",
+
+        "path": "/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.486Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "key": "xs",
+
+        "value": "29%3AXB2hu2K4hpqQ0g%3A2%3A1672663089%3A-1%3A-1",
+
+        "domain": "facebook.com",
+
+        "path": "/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.486Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "key": "m_page_voice",
+
+        "value": "100089007257442",
+
+        "domain": "facebook.com",
+
+        "path": "/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.486Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "key": "wd",
+
+        "value": "360x648",
+
+        "domain": "facebook.com",
+
+        "path": "/",
+
+        "hostOnly": false,
+
+        "creation": "2023-01-02T12:39:34.486Z",
+
+        "lastAccessed": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "key": "x-referer",
+
+        "value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZaSEV1LUlrbTk2bVd0U2F4RGxqOFRJVW4yRGgyX0V3N3Y3NkNVbDRfdHIxbjFlSU9xY19IOTJlcEo0VU5vZnhROCZzb2Z0PWhqayIsImgiOiIvY29uZmlybWVtYWlsLnBocD9uZXh0PWh0dHBzJTNBJTJGJTJGbS5mYWNlYm9vay5jb20lMkYlM0ZwYWlwdiUzRDAlMjZlYXYlM0RBZlpIRXUtSWttOTZtV3RTYXhEbGo4VElVbjJEaDJfRXc3djc2Q1VsNF90cjFuMWVJT3FjX0g5MmVwSjRVTm9meFE4JnNvZnQ9aGprIiwicyI6Im0ifQ%3D%3D",
+
+        "miền": "facebook.com",
+
+        "con đường": "/",
+
+        "hostOnly": sai,
+
+        "sáng tạo": "2023-01-02T12:39:34.486Z",
+
+        "Truy cập lần cuối": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "key": "fbl_st",
+
+        "giá trị": "100431273%3BT%3A27877719",
+
+        "miền": "facebook.com",
+
+        "con đường": "/",
+
+        "hostOnly": sai,
+
+        "sáng tạo": "2023-01-02T12:39:34.486Z",
+
+        "Truy cập lần cuối": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "key": "fbl_cs",
+
+        "value": "AhBRP7frt%2F3Tnnllm6%2Fp32%2FFcGEs3bEpWL3JJVXgzUldDQ211aEtsejBzQQ",
+
+        "miền": "facebook.com",
+
+        "con đường": "/",
+
+        "hostOnly": sai,
+
+        "sáng tạo": "2023-01-02T12:39:34.486Z",
+
+        "Truy cập lần cuối": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "key": "fbl_ci",
+
+        "giá trị": "5769204806489159",
+
+        "miền": "facebook.com",
+
+        "con đường": "/",
+
+        "hostOnly": sai,
+
+        "sáng tạo": "2023-01-02T12:39:34.486Z",
+
+        "Truy cập lần cuối": "2023-01-02T12:39:34.486Z"
+
+    },
+
+    {
+
+        "chìa khóa": "vpd",
+
+        "giá trị": "v1%3B648x360x3",
+
+        "miền": "facebook.com",
+
+        "con đường": "/",
+
+        "hostOnly": sai,
+
+        "sáng tạo": "2023-01-02T12:39:34.486Z",
+
+        "Truy cập lần cuối": "2023-01-02T12:39:34.486Z"
+
+    }
+
+]
